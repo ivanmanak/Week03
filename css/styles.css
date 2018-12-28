@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: block; 
+    position: relative;
+}
+
+.container h1 {
+    padding: 10px;
+}
+
+.input-table {
+    float: left;
+    display: grid;
+    padding: 5px;
+}
+
+#editButton {
+    display: none;
+}
+
